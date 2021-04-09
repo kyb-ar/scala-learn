@@ -1,0 +1,7 @@
+/bazel*
+*.dot
+.idea
+target
+project
+.blaze
+*.metals/
